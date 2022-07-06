@@ -1,2 +1,11 @@
 # project_01
-Prototype
+
+## Description
+
+This is a prototype for our first project in bootcamp.
+
+## Contributors
+
+- Aelin Rose
+- Axel Kern
+- Zane Shariff
